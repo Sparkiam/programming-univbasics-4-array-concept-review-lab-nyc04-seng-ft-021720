@@ -32,5 +32,4 @@ def find_min_value(array)
     num = array[index]
   end }
   num
-  # Add your solution here
 end
